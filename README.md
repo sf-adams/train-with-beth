@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+# Train With Beth
+
 ![Banner](https://github.com/sf-adams/trainwithbeth/assets/35069870/032f5474-944e-4f66-9e22-e6b9f74f0420)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -69,15 +71,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-
-The aim of this site was to maximise performance while having a clean design. In order to do this, the following tools were used:
-
-- [![React][react.js]][react-url]
-- [![Tailwind][tailwindcss.com]][tailwind-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -131,7 +124,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Mobile responsive as many clients are mobile-first users
 - [ ] Shop
   - [ ] Client Bookings
-  - [ ] 
+  - [ ]
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
