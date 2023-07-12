@@ -13,8 +13,6 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Train With Beth</h3>
-
   <p align="center">
     The only trainer you'll ever need.
     <br />
@@ -55,19 +53,11 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Background
 
 This project came about after discussions with a personal trainer from Surrey, United Kingdom. Mostly instagram-based, Train With Beth had the potential to expand to the web.
 
-The opportunities that come with this are endless, with online coaching,
-
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+The opportunities that come with this are endless, and there is a roadmap below to see all the features that will hopefully be added to this project in the future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +65,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 ## Getting Started
 
-If you want to set up your own personal trainer website from this, feel free to follow the instructions below to create your own:
+If you want to set up your own personal trainer website from this proof of concept, feel free to follow the instructions below to create your own:
 
 ### Prerequisites
 
