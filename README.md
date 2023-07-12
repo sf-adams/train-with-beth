@@ -41,11 +41,13 @@ There is a roadmap below to see all the features that will hopefully be added to
 
 ## Roadmap
 
-- [x] Working form for clients to reach out
+Phase one included the landing page, branding and copy text for the proof of concept. Further developments are in progress.
+
+- [x] Working contact form for clients to reach out
 - [x] Mobile responsive as many clients are mobile-first users
 - [ ] Shop
   - [ ] Client Bookings
-  - [ ]
+  - [ ] Merchandise
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -137,6 +139,7 @@ Project Link: [https://github.com/sf-adams/trainwithbeth](https://github.com/sf-
 
 This project wouldn't be possible without a few important resources:
 
+- [Real Favicon Generator](https://realfavicongenerator.net/).]
 - [EdRoh TypeScript Project](https://youtu.be/I2NNxr3WPDo)
 - [Dribbble Designs](https://youtu.be/I2NNxr3WPDo)
 

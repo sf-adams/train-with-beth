@@ -60,11 +60,11 @@ const Benefits = ({ setSelectedPage }: Props) => {
             visible: { opacity: 1, x: 0 },
           }}
         >
-          <HText>MORE THAN JUST GYM.</HText>
+          <HText>MORE THAN JUST A TRAINER.</HText>
           <p className="my-5 text-sm">
-            We provide world class fitness equipment, trainers and classes to
-            get you to your ultimate fitness goals with ease. We provide true
-            care into each and every member.
+            Beth is a fully qualified fitness instructor, nutrition coach and
+            sports masseuse. She creates a unique relationship with every
+            client, tailoring their experience to maximise growth.
           </p>
         </motion.div>
 
