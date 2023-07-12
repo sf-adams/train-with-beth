@@ -10,7 +10,7 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <div align="center">
 
   <p align="center">
@@ -23,7 +23,7 @@
     ·
     <a href="https://github.com/sf-adams/trainwithbeth/issues">Request Feature</a>
   </p>
-</div>
+</div> -->
 
 <!-- ABOUT THE PROJECT -->
 
