@@ -25,39 +25,29 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## Background
 
-This project came about after discussions with a personal trainer from Surrey, United Kingdom. Mostly instagram-based, Train With Beth had the potential to expand to the web.
+This project came about after discussions with a personal trainer from Surrey, United Kingdom. Mostly instagram-based, **Train With Beth** had the potential to expand to the web.
 
-The opportunities that come with this are endless, and there is a roadmap below to see all the features that will hopefully be added to this project in the future.
+It is now a web-based application, with endless opportunities for expansion. The goal of the project is to promote Beth, as well as help to expand her range of services.
+
+There is a roadmap below to see all the features that will hopefully be added to this project in the future.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+- [x] Working form for clients to reach out
+- [x] Mobile responsive as many clients are mobile-first users
+- [ ] Shop
+  - [ ] Client Bookings
+  - [ ]
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,20 +93,6 @@ _Below is an example of how you can instruct your audience on installing and set
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x] Working form for clients to reach out
-- [x] Mobile responsive as many clients are mobile-first users
-- [ ] Shop
-  - [ ] Client Bookings
-  - [ ]
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

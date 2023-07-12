@@ -3,9 +3,9 @@ import { SelectedPage } from "@/shared/types";
 import ActionButton from "@/shared/ActionButton";
 import HomePageText from "@/assets/HomePageText.png";
 import HomePageGraphic from "@/assets/HomePageGraphic.png";
-import SponsorRedBull from "@/assets/SponsorRedBull.png";
-import SponsorForbes from "@/assets/SponsorForbes.png";
-import SponsorFortune from "@/assets/SponsorFortune.png";
+import SponsorNike from "@/assets/SponsorNike.png";
+import SponsorMyprotein from "@/assets/SponsorMyprotein.png";
+import SponsorAdidas from "@/assets/SponsorAdidas.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
 
@@ -17,7 +17,7 @@ const Home = ({ setSelectedPage }: Props) => {
   const isAboveMediumScreens = useMediaQuery("(min-width:1060px)");
 
   return (
-    <section id="home" className="gap-16 bg-gray-20 py-10 md:h-full md:pb-0">
+    <section id="home" className="gap-16 bg-primary-100 py-10 md:h-full md:pb-0">
       {/* IMAGE AND MAIN HEADER */}
       <motion.div
         className="mx-auto w-5/6 items-center justify-center md:flex md:h-5/6"
@@ -38,7 +38,7 @@ const Home = ({ setSelectedPage }: Props) => {
             }}
           >
             <div className="relative">
-              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext">
+              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-twbtext">
                 <img alt="home-page-text" src={HomePageText} />
               </div>
             </div>
@@ -86,13 +86,23 @@ const Home = ({ setSelectedPage }: Props) => {
 
       {/* SPONSORS */}
       {isAboveMediumScreens && (
-        <div className="h-[150px] w-full bg-primary-100 py-10">
-          <div className="mx-auto w-5/6">
-            <div className="flex w-3/5 items-center justify-between gap-8">
-              <img alt="redbull-sponsor" src={SponsorRedBull} />
-              <img alt="forbes-sponsor" src={SponsorForbes} />
-              <img alt="fortune-sponsor" src={SponsorFortune} />
-            </div>
+        <div className="h-[150px] w-full bg-secondary-500 py-10 flex items-center justify-center">
+          <div className="flex w-3/5 items-center justify-center gap-36">
+            <img
+              alt="redbull-sponsor"
+              src={SponsorNike}
+              className="aspect-{3/2} arodiudhfgtcsnhplu@cazlg.com w-1/6 object-contain"
+            />
+            <img
+              alt="forbes-sponsor"
+              src={SponsorMyprotein}
+              className="aspect-{3/2} arodiudhfgtcsnhplu@cazlg.com w-1/6 object-contain"
+            />
+            <img
+              alt="fortune-sponsor"
+              src={SponsorAdidas}
+              className="aspect-{3/2} arodiudhfgtcsnhplu@cazlg.com w-1/6 object-contain"
+            />
           </div>
         </div>
       )}
