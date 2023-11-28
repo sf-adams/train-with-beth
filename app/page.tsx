@@ -1,7 +1,9 @@
+import Hero from "@/components/Hero";
+
 export default function Home() {
   return (
-    <main>
-      <h1>Let&apos;s make sure that the navbar appears above this</h1>
+    <main className="bg-white pb-6 sm:pb-8 lg:pb-12">
+      <Hero />
     </main>
   );
 }
